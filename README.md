@@ -1,3 +1,3 @@
-# Drag-Drop-Project
+# Date-Time-Full-Project
 ## Result you can see here
-[Drag & Drop](https://aianaaa.github.io/Drag-Drop-Project/)
+[Date and Time](https://aianaaa.github.io/Date-and-Time-on-JavaScript/)
